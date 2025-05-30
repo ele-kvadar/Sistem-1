@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/Lib/D1213A_04TS_7/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "M65")(type "KiCad")(uri "${KIPRJMOD}/Lib/M65")(options "")(descr ""))
+  (lib (name "RN2483-I_RM095")(type "KiCad")(uri "${KIPRJMOD}/Lib/RN2483-I_RM095")(options "")(descr ""))
+  (lib (name "SIM8051-6-0-14-01-X-REVD")(type "KiCad")(uri "${KIPRJMOD}/Lib/SIM8051-6-0-14-01-X-REVD")(options "")(descr ""))
+  (lib (name "ul_RN2483A-I-RM105")(type "KiCad")(uri "${KIPRJMOD}/Lib/ul_RN2483A-I-RM105")(options "")(descr ""))
+  (lib (name "L96")(type "KiCad")(uri "${KIPRJMOD}/Lib/L96")(options "")(descr ""))
+  (lib (name "USB-C")(type "KiCad")(uri "${KIPRJMOD}/Lib/USB-C")(options "")(descr ""))
+  (lib (name "RPI")(type "KiCad")(uri "${KIPRJMOD}/Lib/RPI")(options "")(descr ""))
+  (lib (name "card")(type "KiCad")(uri "${KIPRJMOD}/Lib/SDCard/card.pretty")(options "")(descr ""))
+)

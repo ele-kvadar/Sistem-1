@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-04-24_14-28-07")(type "KiCad")(uri "${KIPRJMOD}/Lib/D1213A_04TS_7/KiCADv6/2025-04-24_14-28-07.kicad_sym")(options "")(descr ""))
+  (lib (name "M65")(type "KiCad")(uri "${KIPRJMOD}/Lib/M65/M65.kicad_sym")(options "")(descr ""))
+  (lib (name "RN2483-I_RM095")(type "KiCad")(uri "${KIPRJMOD}/Lib/RN2483-I_RM095/RN2483-I_RM095.kicad_sym")(options "")(descr ""))
+  (lib (name "SIM8051-6-0-14-01-X-REVD")(type "KiCad")(uri "${KIPRJMOD}/Lib/SIM8051-6-0-14-01-X-REVD/SIM8051-6-0-14-01-X-REVD.kicad_sym")(options "")(descr ""))
+  (lib (name "2025-04-23_16-59-43")(type "KiCad")(uri "${KIPRJMOD}/Lib/ul_RN2483A-I-RM105/KiCADv6/2025-04-23_16-59-43.kicad_sym")(options "")(descr ""))
+  (lib (name "L96-M33")(type "KiCad")(uri "${KIPRJMOD}/Lib/L96/L96-M33.kicad_sym")(options "")(descr ""))
+  (lib (name "2169890001")(type "KiCad")(uri "${KIPRJMOD}/Lib/USB-C/2169890001.kicad_sym")(options "")(descr ""))
+  (lib (name "RASPBERRY_PI_ZERO_2_W")(type "KiCad")(uri "${KIPRJMOD}/Lib/RPI/RASPBERRY_PI_ZERO_2_W.kicad_sym")(options "")(descr ""))
+)
