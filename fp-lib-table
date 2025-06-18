@@ -9,4 +9,5 @@
   (lib (name "USB-C")(type "KiCad")(uri "${KIPRJMOD}/Lib/USB-C")(options "")(descr ""))
   (lib (name "RPI")(type "KiCad")(uri "${KIPRJMOD}/Lib/RPI")(options "")(descr ""))
   (lib (name "card")(type "KiCad")(uri "${KIPRJMOD}/Lib/SDCard/card.pretty")(options "")(descr ""))
+  (lib (name "430450800")(type "KiCad")(uri "${KIPRJMOD}/Lib/PSU")(options "")(descr ""))
 )
