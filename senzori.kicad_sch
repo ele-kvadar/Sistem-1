@@ -2886,6 +2886,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 97.79) (xy 48.26 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fa8f642-2f93-4847-9fc1-6f1d9d147959")
+	)
+	(wire
+		(pts
 			(xy 262.89 27.94) (xy 262.89 26.67)
 		)
 		(stroke
@@ -4498,7 +4508,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 48.26 96.52 0)
+		(at 48.26 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4507,7 +4517,7 @@
 		(fields_autoplaced yes)
 		(uuid "34cfa21f-3900-4496-8ed7-41c7265f89be")
 		(property "Reference" "#PWR035"
-			(at 48.26 102.87 0)
+			(at 48.26 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4516,7 +4526,7 @@
 			)
 		)
 		(property "Value" "EXT_GND"
-			(at 48.26 101.6 0)
+			(at 48.26 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4524,7 +4534,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 96.52 0)
+			(at 48.26 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4533,7 +4543,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 96.52 0)
+			(at 48.26 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4542,7 +4552,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.26 96.52 0)
+			(at 48.26 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4702,7 +4712,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4275bda6-f110-47d3-8e43-fd07eaaf612e")
 		(property "Reference" "#PWR033"
 			(at 41.91 100.33 0)
@@ -4714,7 +4723,7 @@
 			)
 		)
 		(property "Value" "EXT_GND"
-			(at 39.37 100.3299 90)
+			(at 36.83 98.552 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4977,7 +4986,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4bcf901a-ed4d-4c22-be1f-1c9460e7abf4")
 		(property "Reference" "#PWR034"
 			(at 48.26 77.47 0)
@@ -4988,8 +4996,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "EXR_+3.3V"
-			(at 48.26 68.58 0)
+		(property "Value" "EXT_+3.3V"
+			(at 45.974 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5645,7 +5653,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "78f8af6d-6b70-468c-a680-ad8280e46541")
 		(property "Reference" "#PWR032"
 			(at 29.21 100.33 0)
@@ -5656,8 +5663,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "EXR_+3.3V"
-			(at 21.59 100.3299 90)
+		(property "Value" "EXT_+3.3V"
+			(at 26.162 98.044 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6121,7 +6128,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8f1dba66-ca0a-47a5-a7cd-9e27d5d0bbd0")
 		(property "Reference" "#PWR058"
 			(at 64.77 76.2 0)
@@ -6133,7 +6139,7 @@
 			)
 		)
 		(property "Value" "EXT_GND"
-			(at 62.23 76.1999 90)
+			(at 61.214 75.946 90)
 			(effects
 				(font
 					(size 1.27 1.27)
