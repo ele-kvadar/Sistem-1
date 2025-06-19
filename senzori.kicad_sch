@@ -4515,7 +4515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "EXT_GND"
 			(at 48.26 101.6 0)
 			(effects
 				(font
@@ -4713,7 +4713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "EXT_GND"
 			(at 39.37 100.3299 90)
 			(effects
 				(font
@@ -4988,7 +4988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "EXR_+3.3V"
 			(at 48.26 68.58 0)
 			(effects
 				(font
@@ -5656,7 +5656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "EXR_+3.3V"
 			(at 21.59 100.3299 90)
 			(effects
 				(font
@@ -6132,7 +6132,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "EXT_GND"
 			(at 62.23 76.1999 90)
 			(effects
 				(font
