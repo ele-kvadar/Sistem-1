@@ -6796,6 +6796,28 @@
 			)
 		)
 	)
+	(global_label "VBAT"
+		(shape input)
+		(at 113.03 151.13 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aa68cc5e-764d-42db-a1fc-9dce99c37f11")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.63 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BME_DIAG_EXT"
 		(shape input)
 		(at 194.31 90.17 270)
