@@ -4871,6 +4871,28 @@
 			)
 		)
 	)
+	(global_label "UV"
+		(shape input)
+		(at 27.94 168.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "890e5ab0-760b-4415-93e7-8e599e32b48f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 22.5357 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PPS_GPS"
 		(shape input)
 		(at 78.74 133.35 0)
@@ -5412,6 +5434,28 @@
 		(uuid "ba775564-e9ad-45f3-80e3-b2e55a2506e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 17.6372 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GPS_RESET"
+		(shape input)
+		(at 27.94 148.59 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "c78c4be3-cf57-461f-be3f-f85672e2c55b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 17.3515 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
