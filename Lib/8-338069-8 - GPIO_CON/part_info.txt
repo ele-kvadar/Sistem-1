@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=8-338069-8
+PartCategory=Connector
+PackageCategory=Other
+PinCount=18
+Version=3.3
+Released=2022-10-01 04:58:33
+Downloaded=2025-07-03 18:17:39
+3D=Y

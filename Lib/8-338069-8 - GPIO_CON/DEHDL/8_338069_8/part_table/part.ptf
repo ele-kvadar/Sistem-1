@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '8_338069_8'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "8-338069-8" (!) = "", "83380698", "Other", "571-8-338069-8", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/8-338069-8?qs=rb%252BOsUuIftz87g6y3haTiw%3D%3D", "8-338069-8", "https://www.arrow.com/en/products/8-338069-8/te-connectivity?region=nac", "Body Features: Primary Product Color Red | Connector Profile Standard | Daisy Chain Without | Configuration Features: Number of Rows 2 | PCB Mount Orientation Vertical | Number of Positions 18 | Contact Features: PCB Contact Termination Area Plating Material Thickness 118.11  196.85 MICIN | Contact Underplating Material Nickel | Contact Current Rating (Max) 1.5 AMP | Contact Mating Area Plating Material Thickness 118.11  196.85 MICIN | Contact Mating Area Plating Material Tin | Contact Type Socket | C", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=4-1773457-1_050_Micro_MaTch&DocType=Data%20Sheet&DocLang=English&PartCntxt=8-338069-8&DocFormat=pdf", "5.3 mm"
+END_PART
+
+END.

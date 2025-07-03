@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '338069_8'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "338069-8" (!) = "", "3380698", "Other", "571-338069-8", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/338069-8?qs=GhSsVVVq7dQLf4JKhIzYQA%3D%3D", "Body Features: Connector Profile Standard | Daisy Chain Without | Primary Product Color Red | Configuration Features: Number of Rows 2 | PCB Mount Orientation Vertical | Number of Positions 8 | Contact Features: PCB Contact Termination Area Plating Material Finish Matte | Contact Mating Area Plating Material Thickness 3  5 MICM | PCB Contact Termination Area Plating Material Tin | Contact Mating Area Plating Material Tin | Contact Current Rating (Max) 1.5 AMP | Contact Base Material Phosphor Bronze | PCB", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=4-1773457-1_050_Micro_MaTch&DocType=Data%20Sheet&DocLang=English&PartCntxt=338069-8&DocFormat=pdf", "5.3 mm"
+END_PART
+
+END.

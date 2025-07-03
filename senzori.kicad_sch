@@ -3794,8 +3794,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_Coaxial")
-		(at 238.76 29.21 0)
-		(mirror y)
+		(at 238.76 29.21 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3803,7 +3803,7 @@
 		(dnp no)
 		(uuid "14fc5632-0c12-46a3-94d8-1ee9029de37a")
 		(property "Reference" "J302"
-			(at 235.204 30.988 90)
+			(at 236.982 25.654 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3812,7 +3812,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 237.8075 25.4 90)
+			(at 242.57 28.2575 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7867,7 +7867,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 243.84 29.21 90)
+		(at 233.68 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7875,7 +7875,7 @@
 		(dnp no)
 		(uuid "ff8da0d3-4847-4090-b50e-4e012a5f5399")
 		(property "Reference" "#PWR087"
-			(at 250.19 29.21 0)
+			(at 227.33 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7884,7 +7884,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 248.92 29.21 0)
+			(at 229.362 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7892,7 +7892,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 29.21 0)
+			(at 233.68 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7901,7 +7901,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 29.21 0)
+			(at 233.68 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7910,7 +7910,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 243.84 29.21 0)
+			(at 233.68 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
