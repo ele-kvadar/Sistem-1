@@ -11,6 +11,268 @@
 		(company "Seminar Elektronike u Istazivackoj stanici Petnica")
 	)
 	(lib_symbols
+		(symbol "ABS25-32.768KHZ-T:ABS25-32.768KHZ-T"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Y"
+				(at -2.54 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "ABS25-32.768KHZ-T"
+				(at -2.54 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "ABS25-32.768KHZ-T:XTAL_ABS25-32.768KHZ-6-1-T"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Abracon"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "32.768 kHz ±20ppm Crystal 12.5pF 50 kOhms 4-SOJ, 5.50mm pitch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "4-4 Abracon"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/ABS25-32.768KHZ-T/Abracon/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "12.01.15"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/ABS25-32.768KHZ-T/Abracon/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "ABS25-32.768KHZ-T"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Abracon Corporation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "ABS25-32.768KHZ-T_0_0"
+				(polyline
+					(pts
+						(xy -1.5875 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.5875 -1.905)
+					(end 1.5875 1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.9525 -1.905) (xy -0.9525 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.9525 1.905) (xy 0.9525 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.5875 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:Micro_SD_Card"
 			(pin_names
 				(offset 1.016)
@@ -3460,8 +3722,8 @@
 		(uuid 19f00d11-3796-4d6b-80f4-831ec04c2226)
 	)
 	(rectangle
-		(start 248.92 83.82)
-		(end 273.05 86.36)
+		(start 240.03 83.82)
+		(end 264.16 86.36)
 		(stroke
 			(width 0)
 			(type default)
@@ -3472,8 +3734,8 @@
 		(uuid 42bb37a7-7e42-485d-8f50-e4fe98068346)
 	)
 	(rectangle
-		(start 214.63 82.55)
-		(end 236.22 85.09)
+		(start 204.47 82.55)
+		(end 226.06 85.09)
 		(stroke
 			(width 0)
 			(type default)
@@ -3544,7 +3806,7 @@
 		(uuid ae8c3251-92d1-4e64-b3e3-bb515345b196)
 	)
 	(rectangle
-		(start 248.92 83.82)
+		(start 240.03 83.82)
 		(end 283.21 114.3)
 		(stroke
 			(width 0)
@@ -3556,8 +3818,8 @@
 		(uuid b08d1890-af42-48ea-8310-ee0e766c6329)
 	)
 	(rectangle
-		(start 214.63 82.55)
-		(end 247.65 115.57)
+		(start 204.47 82.55)
+		(end 237.49 115.57)
 		(stroke
 			(width 0)
 			(type default)
@@ -3613,7 +3875,7 @@
 	)
 	(text "8MHz clock za STM32 "
 		(exclude_from_sim no)
-		(at 225.806 84.074 0)
+		(at 215.646 84.074 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3633,7 +3895,7 @@
 	)
 	(text "RTC oscilator za STM32"
 		(exclude_from_sim no)
-		(at 260.604 85.344 0)
+		(at 251.714 85.344 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3658,7 +3920,7 @@
 		(uuid "219aec2a-18f1-48b9-94db-b82bd0305015")
 	)
 	(junction
-		(at 231.14 109.22)
+		(at 220.98 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2791b3ad-9121-48ea-b6bb-74d26f7fd273")
@@ -3668,12 +3930,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a6a50a5-d24b-4920-badf-44730a16f7db")
-	)
-	(junction
-		(at 227.33 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "36a09218-1d81-4020-ab20-39eec1e40098")
 	)
 	(junction
 		(at 170.18 41.91)
@@ -3772,16 +4028,10 @@
 		(uuid "d2302fa1-b919-4042-b286-21ed86bfcdbf")
 	)
 	(junction
-		(at 265.43 107.95)
+		(at 260.35 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5866c0e-fea3-469f-9e63-64ab94d8d801")
-	)
-	(junction
-		(at 234.95 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f2554e11-08ac-4b78-b1dc-7a852d3f3cad")
 	)
 	(junction
 		(at 196.85 22.86)
@@ -3797,7 +4047,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 109.22) (xy 231.14 109.22)
+			(xy 217.17 109.22) (xy 220.98 109.22)
 		)
 		(stroke
 			(width 0)
@@ -3827,7 +4077,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 100.33) (xy 234.95 101.6)
+			(xy 224.79 100.33) (xy 224.79 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3887,16 +4137,6 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 90.17) (xy 234.95 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f6f2c2c-88c5-4da2-880b-2d4758a3c150")
-	)
-	(wire
-		(pts
 			(xy 55.88 175.26) (xy 58.42 175.26)
 		)
 		(stroke
@@ -3927,7 +4167,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 107.95) (xy 265.43 107.95)
+			(xy 256.54 107.95) (xy 260.35 107.95)
 		)
 		(stroke
 			(width 0)
@@ -3957,6 +4197,16 @@
 	)
 	(wire
 		(pts
+			(xy 267.97 100.33) (xy 264.16 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50256b3f-bb63-4731-8d12-4a07fff67665")
+	)
+	(wire
+		(pts
 			(xy 172.72 30.48) (xy 175.26 30.48)
 		)
 		(stroke
@@ -3967,7 +4217,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 107.95) (xy 269.24 107.95)
+			(xy 260.35 107.95) (xy 264.16 107.95)
 		)
 		(stroke
 			(width 0)
@@ -4024,6 +4274,16 @@
 			(type default)
 		)
 		(uuid "6530521c-fc1d-48bf-9f83-a602a7092c81")
+	)
+	(wire
+		(pts
+			(xy 252.73 100.33) (xy 256.54 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6eac910b-973d-41f6-b759-9eec4af1dc62")
 	)
 	(wire
 		(pts
@@ -4087,7 +4347,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 99.06) (xy 261.62 100.33)
+			(xy 252.73 93.98) (xy 252.73 100.33)
 		)
 		(stroke
 			(width 0)
@@ -4117,23 +4377,13 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 109.22) (xy 234.95 109.22)
+			(xy 220.98 109.22) (xy 224.79 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b4893be2-254f-4333-8150-5a8e869d54a1")
-	)
-	(wire
-		(pts
-			(xy 227.33 90.17) (xy 227.33 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bda79307-38e2-4804-8051-ee19da810ba1")
 	)
 	(wire
 		(pts
@@ -4177,7 +4427,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 99.06) (xy 269.24 100.33)
+			(xy 267.97 93.98) (xy 267.97 100.33)
 		)
 		(stroke
 			(width 0)
@@ -4197,7 +4447,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 100.33) (xy 227.33 101.6)
+			(xy 217.17 100.33) (xy 217.17 101.6)
 		)
 		(stroke
 			(width 0)
@@ -4477,7 +4727,7 @@
 	)
 	(global_label "OSC32_IN"
 		(shape input)
-		(at 261.62 99.06 180)
+		(at 252.73 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4487,7 +4737,7 @@
 		)
 		(uuid "1cf6549f-bbc3-4f6d-8884-d1f9b70ae73c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 249.5029 99.06 0)
+			(at 240.6129 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4741,7 +4991,7 @@
 	)
 	(global_label "OSC32_OUT"
 		(shape input)
-		(at 269.24 99.06 0)
+		(at 267.97 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4751,7 +5001,7 @@
 		)
 		(uuid "48e325a3-cb51-4b6f-a42b-f6e557de8bf6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 283.0504 99.06 0)
+			(at 281.7804 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5093,7 +5343,7 @@
 	)
 	(global_label "OSC8_IN"
 		(shape input)
-		(at 227.33 95.25 180)
+		(at 217.17 100.33 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5103,7 +5353,7 @@
 		)
 		(uuid "8e992fd8-48e3-4b3d-9f7d-b7180d2a64b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 216.4224 95.25 0)
+			(at 206.2624 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5203,7 +5453,7 @@
 	)
 	(global_label "OSC8_OUT"
 		(shape input)
-		(at 234.95 95.25 0)
+		(at 224.79 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5213,7 +5463,7 @@
 		)
 		(uuid "96d8d427-4efd-4e7b-999c-81f3c1d9a2ad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 247.5509 95.25 0)
+			(at 237.3909 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6381,7 +6631,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 231.14 109.22 0)
+		(at 220.98 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6390,7 +6640,7 @@
 		(fields_autoplaced yes)
 		(uuid "150f9909-3594-46a7-b9c5-a01ed4daa147")
 		(property "Reference" "#PWR09"
-			(at 231.14 115.57 0)
+			(at 220.98 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6399,7 +6649,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 231.14 114.3 0)
+			(at 220.98 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6407,7 +6657,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 231.14 109.22 0)
+			(at 220.98 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6416,7 +6666,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 109.22 0)
+			(at 220.98 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6425,7 +6675,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 231.14 109.22 0)
+			(at 220.98 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7352,7 +7602,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 227.33 105.41 0)
+		(at 217.17 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7360,7 +7610,7 @@
 		(dnp no)
 		(uuid "50f09b82-d288-4c32-be47-83121c665035")
 		(property "Reference" "C104"
-			(at 218.694 104.394 0)
+			(at 208.534 104.394 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7368,8 +7618,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
-			(at 219.456 106.426 0)
+		(property "Value" "27pF"
+			(at 209.296 106.426 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7378,7 +7628,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 228.2952 109.22 0)
+			(at 218.1352 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7387,7 +7637,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 227.33 105.41 0)
+			(at 217.17 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7396,7 +7646,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 227.33 105.41 0)
+			(at 217.17 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7421,7 +7671,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 265.43 107.95 0)
+		(at 260.35 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7430,7 +7680,7 @@
 		(fields_autoplaced yes)
 		(uuid "5872f27a-9b1d-4576-9a7c-a0b0dcb54741")
 		(property "Reference" "#PWR08"
-			(at 265.43 114.3 0)
+			(at 260.35 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7439,7 +7689,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 265.43 113.03 0)
+			(at 260.35 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7447,7 +7697,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 265.43 107.95 0)
+			(at 260.35 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7456,7 +7706,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 265.43 107.95 0)
+			(at 260.35 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7465,7 +7715,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 265.43 107.95 0)
+			(at 260.35 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7688,7 +7938,7 @@
 	)
 	(symbol
 		(lib_id "Device:Crystal")
-		(at 231.14 100.33 0)
+		(at 220.98 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7697,7 +7947,7 @@
 		(fields_autoplaced yes)
 		(uuid "6b6c0f03-12fd-4bd6-adc9-e3c3b62d151a")
 		(property "Reference" "Y101"
-			(at 231.14 92.71 0)
+			(at 220.98 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7705,15 +7955,15 @@
 			)
 		)
 		(property "Value" "8MHz"
-			(at 231.14 95.25 0)
+			(at 220.98 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
-			(at 231.14 100.33 0)
+		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD"
+			(at 220.98 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7722,7 +7972,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 231.14 100.33 0)
+			(at 220.98 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7731,7 +7981,7 @@
 			)
 		)
 		(property "Description" "Two pin crystal"
-			(at 231.14 100.33 0)
+			(at 220.98 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8022,7 +8272,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 261.62 104.14 0)
+		(at 256.54 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8030,7 +8280,7 @@
 		(dnp no)
 		(uuid "7f3e209c-e9c9-4163-a0b0-d07cf7576b14")
 		(property "Reference" "C103"
-			(at 253.492 103.124 0)
+			(at 248.412 103.124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8038,8 +8288,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
-			(at 253.746 105.156 0)
+		(property "Value" "15pF"
+			(at 248.666 105.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8048,7 +8298,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 262.5852 107.95 0)
+			(at 257.5052 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8057,7 +8307,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 261.62 104.14 0)
+			(at 256.54 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8066,7 +8316,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 261.62 104.14 0)
+			(at 256.54 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8562,7 +8812,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 269.24 104.14 0)
+		(at 264.16 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8570,7 +8820,7 @@
 		(dnp no)
 		(uuid "8f8e87aa-6ac7-4e3e-94b0-990f9ed30169")
 		(property "Reference" "C102"
-			(at 271.78 103.124 0)
+			(at 266.7 103.124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8578,8 +8828,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
-			(at 271.78 105.41 0)
+		(property "Value" "15pF"
+			(at 266.7 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8588,7 +8838,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 270.2052 107.95 0)
+			(at 265.1252 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8597,7 +8847,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 269.24 104.14 0)
+			(at 264.16 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8606,7 +8856,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 269.24 104.14 0)
+			(at 264.16 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8766,7 +9016,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 234.95 105.41 0)
+		(at 224.79 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8774,7 +9024,7 @@
 		(dnp no)
 		(uuid "9ecd31ff-ece1-41d9-98c4-100f52832306")
 		(property "Reference" "C105"
-			(at 237.49 104.394 0)
+			(at 227.33 104.394 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8782,8 +9032,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
-			(at 237.49 106.68 0)
+		(property "Value" "27pF"
+			(at 227.33 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8792,7 +9042,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 235.9152 109.22 0)
+			(at 225.7552 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8801,7 +9051,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 234.95 105.41 0)
+			(at 224.79 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8810,7 +9060,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 234.95 105.41 0)
+			(at 224.79 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8894,6 +9144,185 @@
 			(project "SYS1"
 				(path "/38ef5478-8cbc-4f11-847b-fee2217190bd/73c5ae4b-9d37-4a44-8cc6-6dc284ef9990"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ABS25-32.768KHZ-T:ABS25-32.768KHZ-T")
+		(at 260.35 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b22293f7-1b62-4a85-b476-9efdab230653")
+		(property "Reference" "Y1"
+			(at 260.35 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ABS25-32.768KHZ-T"
+			(at 260.35 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Crystal:Crystal_SMD_Abracon_ABS25-4Pin_8.0x3.8mm"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Abracon"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "32.768 kHz ±20ppm Crystal 12.5pF 50 kOhms 4-SOJ, 5.50mm pitch"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "4-4 Abracon"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/ABS25-32.768KHZ-T/Abracon/view-part/?ref=eda"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "12.01.15"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ABS25-32.768KHZ-T/Abracon/view-part/?ref=snap"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "ABS25-32.768KHZ-T"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Abracon Corporation"
+			(at 260.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1ef6deff-c929-4c8f-a172-b9553c4b7be4")
+		)
+		(pin "4"
+			(uuid "7261111f-ff5f-4e33-b705-1d9be17a08cd")
+		)
+		(instances
+			(project ""
+				(path "/38ef5478-8cbc-4f11-847b-fee2217190bd/73c5ae4b-9d37-4a44-8cc6-6dc284ef9990"
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -9329,73 +9758,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 231.14 90.17 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cdfb0c86-d331-479b-a3ab-fedd42e63877")
-		(property "Reference" "R104"
-			(at 235.458 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1M"
-			(at 235.458 88.9 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 231.14 91.948 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 231.14 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f5c774e0-467c-43a4-8dd3-9b7ab0e02285")
-		)
-		(pin "2"
-			(uuid "b8234add-ba1a-425a-be56-0c0e5b3e35ac")
-		)
-		(instances
-			(project "SYS1"
-				(path "/38ef5478-8cbc-4f11-847b-fee2217190bd/73c5ae4b-9d37-4a44-8cc6-6dc284ef9990"
-					(reference "R104")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 205.74 44.45 180)
 		(unit 1)
@@ -9460,73 +9822,6 @@
 			(project "SYS1"
 				(path "/38ef5478-8cbc-4f11-847b-fee2217190bd/73c5ae4b-9d37-4a44-8cc6-6dc284ef9990"
 					(reference "C110")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Crystal")
-		(at 265.43 99.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d8d063dd-8a70-416b-803f-fc344ac345c5")
-		(property "Reference" "Y102"
-			(at 265.43 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "32.768KHz"
-			(at 265.43 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
-			(at 265.43 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 265.43 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Two pin crystal"
-			(at 265.43 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "41fd38d2-38e4-4064-a4a6-b22be0d32a3f")
-		)
-		(pin "2"
-			(uuid "1a48ef66-08e4-43b1-b78c-3bcc52c82cbd")
-		)
-		(instances
-			(project "SYS1"
-				(path "/38ef5478-8cbc-4f11-847b-fee2217190bd/73c5ae4b-9d37-4a44-8cc6-6dc284ef9990"
-					(reference "Y102")
 					(unit 1)
 				)
 			)
